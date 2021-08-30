@@ -1,0 +1,2 @@
+# AuthData
+Verified Slice HWIDs
